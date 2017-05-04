@@ -10,3 +10,4 @@ We'll only allow github-hosted images.
 # ActionFPS Nicknames
 
 Nickname changes here: https://github.com/ActionFPS/clans/edit/master/nickname-changes.tsv
+Make sure to use TABs (copy & paste previous record, then modify). Format: `<date of change><tab><user id><tab><new nickname>`.
