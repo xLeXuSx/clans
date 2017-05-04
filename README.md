@@ -6,3 +6,7 @@ To upload a logo, post it here: https://github.com/ActionFPS/clans/issues/1
 And then copy the image URL from there to the CSV.
 
 We'll only allow github-hosted images.
+
+# ActionFPS Nicknames
+
+Nickname changes here: https://github.com/ActionFPS/clans/edit/master/nickname-changes.tsv
