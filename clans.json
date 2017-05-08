@@ -1,0 +1,422 @@
+[
+    {
+        "id": "woop",
+        "name": "w00p",
+        "fullName": "Woop Clan",
+        "tags": [
+            "w00p|*"
+        ],
+        "website": "http://woop.us/",
+        "teamspeak": "ts3server://woop.ac?port=9988&channel=Clans/Woop%20Clan",
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12814066/25c656a4-cb34-11e5-87a7-dbff30d759c6.png"
+    },
+    {
+        "id": "bc",
+        "name": "BC",
+        "fullName": "Beyond Compare",
+        "tags": [
+            "*|BC|*"
+        ],
+        "website": "http://beyond-compare.xobor.com/",
+        "teamspeak": "ts3server://woop.ac?port=9988&channel=Clans/Beyond%20Compare",
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12814156/cbcd5e62-cb34-11e5-9929-e12fa4170e9c.png"
+    },
+    {
+        "id": "one",
+        "name": "oNe",
+        "fullName": "Owning Noobs Everywhere",
+        "tags": [
+            "*|oNe|*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/5359646/12004218/d1c7c4a4-ab47-11e5-8084-c9d6d5d7ef2e.png"
+    },
+    {
+        "id": "rc",
+        "name": "rC",
+        "fullName": "Rising Cubers",
+        "tags": [
+            "*.rC|*"
+        ],
+        "website": "http://585437.xobor.com/",
+        "logo": "https://cloud.githubusercontent.com/assets/16243477/12145853/d3616b38-b490-11e5-9d01-8d49c2bfa666.png"
+    },
+    {
+        "id": "vm",
+        "name": "vM",
+        "fullName": "Victrix Mortalis",
+        "tags": [
+            ".vM|*"
+        ],
+        "website": "http://vmclan-ac.enjin.com/",
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003540/00294678-ab1c-11e5-9660-6e764b07d0df.png"
+    },
+    {
+        "id": "psy",
+        "name": "PSY",
+        "fullName": "Psychopaths shooting you",
+        "tags": [
+            "[PSY]*"
+        ],
+        "website": "http://psyclan.org/",
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003541/0af42866-ab1c-11e5-8a13-c63973cd9d91.png"
+    },
+    {
+        "id": "stk",
+        "name": "STK",
+        "fullName": "Shoot to kill",
+        "tags": [
+            "STK#*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003543/1010d600-ab1c-11e5-8b1e-81af3b09fa4d.png"
+    },
+    {
+        "id": "ax",
+        "name": "4X",
+        "fullName": "dot four x",
+        "tags": [
+            ".4X|*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003544/1c371b10-ab1c-11e5-9629-d15003712653.png"
+    },
+    {
+        "id": "brc",
+        "name": "BRC",
+        "fullName": "Brazilian Revolutionary Clan",
+        "tags": [
+            "*[BRC]*"
+        ],
+        "teamspeak": "ts3server://woop.ac?port=9988&channel=Clans/Brazilian%20Revolutionary%20Clan",
+        "logo": "https://cloud.githubusercontent.com/assets/5359646/12004235/a0716ff8-ab48-11e5-8a1c-5714886f1fc6.png"
+    },
+    {
+        "id": "fel",
+        "name": "FEL",
+        "fullName": "Fuerza Elite Latina",
+        "tags": [
+            "*~FEL~*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003549/275ee158-ab1c-11e5-9f52-e2c37c32efaa.png"
+    },
+    {
+        "id": "imnt",
+        "name": "IMNT.",
+        "fullName": "IMNT",
+        "tags": [
+            "IMNT.*"
+        ],
+        "website": "http://imnt.ga/",
+        "teamspeak": "ts3server://woop.ac?port=9988&channel=Clans/IMNT",
+        "logo": "https://camo.githubusercontent.com/1f39f6dbc9c69d1d0614050e6b23cb17e64524df/687474703a2f2f77696b692e6375626572732e6e65742f696d616765732f392f39382f496d6e74706572666563743276322e706e67"
+    },
+    {
+        "id": "gaf",
+        "name": "GaF",
+        "fullName": "Gaf",
+        "tags": [
+            "*|GaF|*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003552/31844aec-ab1c-11e5-83ad-beaab0d637ca.png"
+    },
+    {
+        "id": "fad",
+        "name": "FaD",
+        "fullName": "Fight and Die",
+        "tags": [
+            "*|FaD|*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003553/375d77d6-ab1c-11e5-9146-7cee96ef81bb.png"
+    },
+    {
+        "id": "kh",
+        "name": "KH",
+        "fullName": "Kell Hounds",
+        "tags": [
+            "*|KH|*"
+        ],
+        "website": "http://kellhounds-ac.ml/",
+        "logo": "https://cloud.githubusercontent.com/assets/16243477/12007809/cb6c1352-ac15-11e5-9633-442bb1ba3d2e.png"
+    },
+    {
+        "id": "lc",
+        "name": "LC",
+        "fullName": "Legendary Cubers",
+        "tags": [
+            "*|#LC*"
+        ],
+        "website": "http://www.legendary-cubers.tk/",
+        "teamspeak": "ts3server://woop.ac?port=9988&channel=Clans/Legendary%20Cubers",
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003557/434048bc-ab1c-11e5-85a6-2e287c590161.png"
+    },
+    {
+        "id": "b",
+        "name": "B",
+        "fullName": "Bodyguards",
+        "tags": [
+            "B}*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003559/4f21e5fa-ab1c-11e5-9d02-007a09ce63f4.png"
+    },
+    {
+        "id": "fra",
+        "name": "Fra",
+        "fullName": "French ACWC team",
+        "tags": [
+            "Fra|*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/5359646/12004888/802b28ec-ab7f-11e5-8927-c8b33d9cf74c.png"
+    },
+    {
+        "id": "mys",
+        "name": "MyS",
+        "fullName": "Makes you Sick",
+        "tags": [
+            "*=MyS=*"
+        ],
+        "website": "http://myys.bplaced.net/",
+        "logo": "https://cloud.githubusercontent.com/assets/16243477/12007811/08f26e38-ac16-11e5-8855-e23429e226d8.png"
+    },
+    {
+        "id": "u",
+        "name": "U",
+        "fullName": "Unbreakable",
+        "tags": [
+            "U|*"
+        ],
+        "website": "http://unbreakable-ac.cf/",
+        "teamspeak": "ts3server://woop.ac?port=9988&channel=Clans/Unbreakable",
+        "logo": "https://cloud.githubusercontent.com/assets/5359646/12004841/d10c564a-ab7b-11e5-8d41-00e673cc0096.png"
+    },
+    {
+        "id": "ar",
+        "name": "aR",
+        "fullName": "Auto Reload",
+        "tags": [
+            "aR#*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003564/62218250-ab1c-11e5-9166-d46241e8b22d.png"
+    },
+    {
+        "id": "sow",
+        "name": "SoW",
+        "fullName": "Sow",
+        "tags": [
+            "*-SoW-*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003565/66fe6450-ab1c-11e5-894d-e46234d5edb5.png"
+    },
+    {
+        "id": "pi",
+        "name": "Pi",
+        "fullName": "Paradox Infinity",
+        "tags": [
+            "Pi_*"
+        ],
+        "website": "http://paradoxinfinity.net/",
+        "teamspeak": "ts3server://woop.ac?port=9988&channel=Clans/Paradox%20Infinity",
+        "logo": "https://cloud.githubusercontent.com/assets/10406781/25064930/d4810c9c-2205-11e7-8335-5d11707f5b06.jpg"
+    },
+    {
+        "id": "aox",
+        "name": "AoX",
+        "fullName": "Art of Execution",
+        "tags": [
+            "*|AoX|*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003570/88226d52-ab1c-11e5-99e8-508a09d75496.png"
+    },
+    {
+        "id": "fd",
+        "name": "FD",
+        "fullName": "Fundog",
+        "tags": [
+            "FD*"
+        ],
+        "website": "http://www.fundog-theclan.com/",
+        "logo": "https://cloud.githubusercontent.com/assets/5359646/12004238/cb819812-ab48-11e5-8aec-ee7fcea8fef0.png"
+    },
+    {
+        "id": "as",
+        "name": "45",
+        "fullName": "Angry Souls",
+        "tags": [
+            ".45|*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003572/936699a4-ab1c-11e5-9384-e6ca00fc4bb9.png"
+    },
+    {
+        "id": "xw",
+        "name": "xW",
+        "fullName": "Xtrem Warriors",
+        "tags": [
+            "-xW-#*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12003574/95e624ec-ab1c-11e5-9b48-375b40cab31b.png"
+    },
+    {
+        "id": "tyd",
+        "name": "TyD",
+        "fullName": "Tear You Down",
+        "tags": [
+            "*{TyD}*"
+        ],
+        "website": "http://forum.tearyoudown.com/",
+        "logo": "https://cloud.githubusercontent.com/assets/16243477/12023835/e9c0f71c-ad9d-11e5-9eda-cd16b6c16991.png"
+    },
+    {
+        "id": "acka",
+        "name": "aCKa",
+        "fullName": "Assault Cubers Kingly Assassins",
+        "tags": [
+            "*[aCKa]*"
+        ],
+        "website": "http://www.acka.herobo.com/news.php",
+        "logo": "https://cloud.githubusercontent.com/assets/16243477/12076713/7181d0aa-b1b7-11e5-839a-fa47746ff537.png"
+    },
+    {
+        "id": "dnc",
+        "name": "DnC",
+        "fullName": "Damn Nasty Cubers",
+        "tags": [
+            "*|DnC|*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/14408342/412bf156-ff23-11e5-8e64-17a38d7e48d3.png"
+    },
+    {
+        "id": "ir",
+        "name": "iR",
+        "fullName": "InReal",
+        "tags": [
+            "iR|*",
+            "iR.|*"
+        ],
+        "teamspeak": "ts3server://woop.ac?port=9988&channel=Clans/InReal",
+        "logo": "https://cloud.githubusercontent.com/assets/5359646/12004100/caeee00e-ab3d-11e5-8b35-9ed661f5b06f.png"
+    },
+    {
+        "id": "chicken",
+        "name": "<(*)",
+        "fullName": "Swimming Birds",
+        "tags": [
+            "<(*)*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12191582/6c8d6c88-b5ce-11e5-8aa3-ea4f276cb5c8.png"
+    },
+    {
+        "id": "mibr",
+        "name": "mibr",
+        "fullName": "Made in Brasil",
+        "tags": [
+            "mibr|*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/12191586/7218542e-b5ce-11e5-9ccb-3e5bbcbff976.png"
+    },
+    {
+        "id": "esl",
+        "name": "ESL",
+        "fullName": "ESL",
+        "tags": [
+            "ESL|*",
+            "*|ESL"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/16243477/12023778/4dbade1e-ad9d-11e5-854f-6d29a90b24a3.png"
+    },
+    {
+        "id": "bra",
+        "name": "BRA",
+        "fullName": "Brazil Team",
+        "tags": [
+            "*+BRA+*"
+        ],
+        "logo": "https://camo.githubusercontent.com/1239a920071437ee1c6f62fa2990f31f444d35fb/687474703a2f2f69636f6e732e69636f6e7365656b65722e636f6d2f706e672f66756c6c73697a652f636f756e7472792d666c6167732f6272617a696c2d666c61672e706e67"
+    },
+    {
+        "id": "taa",
+        "name": "TAA",
+        "fullName": "The Art Angels",
+        "tags": [
+            "*|TAA|*"
+        ],
+        "website": "http://theartangels.forumactif.com/",
+        "teamspeak": "ts3server://woop.ac?port=9988&channel=Clans/The%20Art%20Angels",
+        "logo": "https://cloud.githubusercontent.com/assets/2464813/14592418/dd3d60c4-0550-11e6-9d11-3d826d0fa84b.png"
+    },
+    {
+        "id": "skw",
+        "name": "SKW",
+        "fullName": "Screen Killers World",
+        "tags": [
+            "*[SKW]*"
+        ],
+        "website": "http://facebook.com/ScreenKillersWorld",
+        "logo": "https://cloud.githubusercontent.com/assets/5359646/12696510/145b0a88-c76d-11e5-8347-cd52ad7cf34f.png"
+    },
+    {
+        "id": "zz",
+        "name": "ZZ",
+        "fullName": "ZZ Gang",
+        "tags": [
+            "ZZ|*",
+            "*|ZZ"
+        ],
+        "website": "http://zzgang.tk",
+        "teamspeak": "ts3server://zz.playmatch.xyz",
+        "logo": "https://camo.githubusercontent.com/917eebe95e478190294b758244f71625740d4095/68747470733a2f2f66696c65732e6769747465722e696d2f5363616c6157696c6c69616d2f416374696f6e4650532f4f5739432f7a7a6c6f676f2d312e706e67"
+    },
+    {
+        "id": "tee",
+        "name": "3I",
+        "fullName": "3 Inches",
+        "tags": [
+            "*3i|*",
+            "*|3i*"
+        ],
+        "logo": "https://camo.githubusercontent.com/5387dba2106a48c16caa072ce8c2f1e064710c92/687474703a2f2f33692e7374796c656261722e64652f77702d636f6e74656e742f75706c6f6164732f323031362f30352f33692d6c6f676f2e706e67"
+    },
+    {
+        "id": "usa",
+        "name": "USA",
+        "fullName": "USA ACWC Team",
+        "tags": [
+            "USA|*",
+            "*|USA"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/7859727/21722921/d9361e82-d42e-11e6-941f-45d1f6a03fb0.png"
+    },
+    {
+        "id": "bang",
+        "name": "Bang",
+        "fullName": "Bang Squad",
+        "tags": [
+            "bang.*",
+            "*.bang"
+        ],
+        "logo": "https://camo.githubusercontent.com/421d61f3cb4f9b5fc66fe96a5845a47753c6bf68/687474703a2f2f692e696d6775722e636f6d2f7073776a4251452e706e67"
+    },
+    {
+        "id": "uk",
+        "name": "UK",
+        "fullName": "United Kingdom ACWC",
+        "tags": [
+            "UK.*"
+        ],
+        "logo": "https://camo.githubusercontent.com/b8b2897527533e7db05fd7c8662ba8af79eced51/687474703a2f2f69636f6e697a65722e6e65742f66696c65732f46696e616c5f466c6167732f7468756d622f36342f556e697465642d4b696e67646f6d2d666c61672e706e67"
+    },
+    {
+        "id": "de",
+        "name": "DE",
+        "fullName": "Germany ACWC",
+        "tags": [
+            "de_*"
+        ],
+        "logo": "https://camo.githubusercontent.com/68261d0777dbe04d0cc794e19e97730fc39513f2/687474703a2f2f69636f6e732e69636f6e7365656b65722e636f6d2f706e672f36342f726f756e6465642d776f726c642d666c6167732f6765726d616e792d666c61672d312e706e67"
+    },
+    {
+        "id": "bene",
+        "name": "BeNe",
+        "fullName": "BeNe ACWC ",
+        "tags": [
+            "BeNe|*"
+        ],
+        "logo": "https://camo.githubusercontent.com/d7b09157db701ea8b927b096b265cee256d55e0c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33322f466c61675f6f665f42656e656c75782e7376672f38303070782d466c61675f6f665f42656e656c75782e7376672e706e67"
+    }
+]
