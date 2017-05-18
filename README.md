@@ -10,7 +10,7 @@ We'll only allow github-hosted images.
 # ActionFPS Nicknames
 
 1. Open https://github.com/ActionFPS/clans/edit/master/nickname-changes.yml
-  * You may need to register to GitHub
+   * You may need to register to GitHub
 2. Add a new entry using example entries
 3. Press 'Propose file changes'
 
