@@ -413,7 +413,7 @@
     {
         "id": "bene",
         "name": "BeNe",
-        "fullName": "BeNe ACWC ",
+        "fullName": "BeNe ACWC",
         "tags": [
             "BeNe|*"
         ],
@@ -422,7 +422,7 @@
     {
       "id": "pt",
         "name": "PT",
-        "fullName": "Portugal ACWC ",
+        "fullName": "Portugal ACWC",
         "tags": [
             "+PT+*"
         ],
