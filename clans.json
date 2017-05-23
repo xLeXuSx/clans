@@ -418,5 +418,13 @@
             "BeNe|*"
         ],
         "logo": "https://camo.githubusercontent.com/d7b09157db701ea8b927b096b265cee256d55e0c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33322f466c61675f6f665f42656e656c75782e7376672f38303070782d466c61675f6f665f42656e656c75782e7376672e706e67"
-    }
+    },
+    {
+      "id": "pt",
+        "name": "PT",
+        "fullName": "Portugal ACWC ",
+        "tags": [
+            "+PT+*"
+        ],
+        "logo": "https://cloud.githubusercontent.com/assets/28735181/26336956/890c1696-3f6d-11e7-9246-37eea92eac2e.jpg"  
 ]
