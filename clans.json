@@ -427,5 +427,14 @@
             "+PT+*"
         ],
         "logo": "https://cloud.githubusercontent.com/assets/28735181/26336956/890c1696-3f6d-11e7-9246-37eea92eac2e.jpg"  
-    }
-]
+    },
+    {
+    "id": "ht",
+        "name": "HT",
+        "fullName": "Human Terror",
+        "tags": [
+            "~HT|*",
+            "*|HT~"
+        ],
+        "website": "http://www.htclan.pe.hu/",
+        "logo":  "https://user-images.githubusercontent.com/31505704/29917863-91394f26-8e43-11e7-862d-c94fc243fa12.png"
