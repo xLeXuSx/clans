@@ -438,5 +438,15 @@
         ],
         "website": "http://www.htclan.pe.hu/",
         "logo":  "https://user-images.githubusercontent.com/31505704/29917863-91394f26-8e43-11e7-862d-c94fc243fa12.png"
+    },
+    {
+     "id": "els",
+        "name": "ELS",
+        "fullName": "Elite Squad",
+        "tags": [
+            "eLs|*"
+        ],
+        "logo": "https://user-images.githubusercontent.com/2464813/36338269-5c244fb6-13e5-11e8-8980-52c780da1469.png",
+        "website": "http://elitesquad-ac.forumeiros.com/"
     }
 ]
