@@ -11,6 +11,16 @@
         "logo": "https://cloud.githubusercontent.com/assets/2464813/12814066/25c656a4-cb34-11e5-87a7-dbff30d759c6.png"
     },
     {
+        "id": "icy",
+        "name": "icY",
+        "fullName": "icY Gang",
+        "tags": [
+            ".icY*|*"
+        ],
+        "website": "http://icyclan.proboards.com/",
+        "logo": "https://user-images.githubusercontent.com/2464813/42128029-4147e2a8-7cd5-11e8-9858-3165f9e39576.jpg"
+    },
+    {
         "id": "bc",
         "name": "BC",
         "fullName": "Beyond Compare",
