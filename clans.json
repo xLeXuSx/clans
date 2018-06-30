@@ -15,7 +15,8 @@
         "name": "icY",
         "fullName": "icY Gang",
         "tags": [
-            ".icY*|*"
+            ".icY*|*",
+            "*.icY*|*"
         ],
         "website": "http://icyclan.proboards.com/",
         "logo": "https://user-images.githubusercontent.com/2464813/42128029-4147e2a8-7cd5-11e8-9858-3165f9e39576.jpg"
