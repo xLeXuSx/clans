@@ -24,3 +24,6 @@
 - nickname_effective_from_date: 27/07/2018
   user_id: taakllx
   new_nickname: "Kill3rXtr3m3"
+  - nickname_effective_from_date: 01/08/2018
+  user_id: Faker
+  new_nickname: "Faker|ZZ"
