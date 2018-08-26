@@ -459,5 +459,14 @@
         ],
         "logo": "https://user-images.githubusercontent.com/2464813/36338269-5c244fb6-13e5-11e8-8980-52c780da1469.png",
         "website": "http://elitesquad-ac.forumeiros.com/"
+    },
+    {         "id": "spqr",
+        "name": "spqr",
+        "fullName": "Senātus Populusque Rōmānus",
+        "tags": [
+            "*.spqr",
+            "spqr.*"
+        ],
+        "logo": "https://user-images.githubusercontent.com/16074168/42157910-da28785e-7de6-11e8-9753-d598e106c721.jpg",
     }
 ]
