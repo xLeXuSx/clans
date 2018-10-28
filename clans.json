@@ -469,5 +469,15 @@
             "spqr.*"
         ],
         "logo": "https://user-images.githubusercontent.com/16074168/42157910-da28785e-7de6-11e8-9753-d598e106c721.jpg"
+    },
+    {
+        "id": "bob",
+        "name": "BoB",
+        "fullName": "The Billybobers",
+        "tags": [
+            "{BoB}*"
+        ],
+        "website": "http://bob-ac.net/",
+        "logo": "https://wiki.cubers.net/images/2/27/BoB-logo.png"
     }
 ]
