@@ -45,22 +45,13 @@
         "name": "aura.woop.ac 4999"
     },
     {
-        "region": "America (Los Angeles)",
-        "hostname": "califa.actionfps.com",
+        "region": "America (San Francisco)",
+        "hostname": "bluf.actionfps.com",
         "port": 1999,
         "kind": "AssaultCube",
-        "address": "califa.actionfps.com:1999",
-        "url": "assaultcube://califa.actionfps.com:1999",
-        "name": "califa.actionfps.com 1999"
-    },
-    {
-        "region": "America (Los Angeles)",
-        "hostname": "califa.actionfps.com",
-        "port": 28763,
-        "kind": "AssaultCube",
-        "address": "califa.actionfps.com:28763",
-        "url": "assaultcube://califa.actionfps.com:28763",
-        "name": "califa.actionfps.com 28763"
+        "address": "bluf.actionfps.com:1999",
+        "url": "assaultcube://bluf.actionfps.com:1999",
+        "name": "bluf.actionfps.com 1999"
     },
     {
         "region": "Europe (France)",
@@ -70,41 +61,5 @@
         "address": "aura.woop.ac:10000",
         "url": "assaultcube://aura.woop.ac:10000",
         "name": "aura.woop.ac 10000"
-    },
-    {
-        "region": "Europe (France)",
-        "hostname": "aura.woop.ac",
-        "port": 7654,
-        "kind": "ActionFPS",
-        "address": "aura.woop.ac:7654",
-        "url": "actionfps://aura.woop.ac:7654",
-        "name": "aura.woop.ac 7654"
-    },
-    {
-        "region": "Europe (France)",
-        "hostname": "aura.woop.ac",
-        "port": 30000,
-        "kind": "ActionFPS",
-        "address": "aura.woop.ac:30000",
-        "url": "actionfps://aura.woop.ac:30000",
-        "name": "aura.woop.ac 30000"
-    },
-    {
-        "region": "America (Los Angeles)",
-        "hostname": "califa.actionfps.com",
-        "port": 7654,
-        "kind": "ActionFPS",
-        "address": "califa.actionfps.com:7654",
-        "url": "actionfps://califa.actionfps.com:7654",
-        "name": "califa.actionfps.com 7654"
-    },
-    {
-        "region": "America (Los Angeles)",
-        "hostname": "califa.actionfps.com",
-        "port": 30000,
-        "kind": "ActionFPS",
-        "address": "califa.actionfps.com:30000",
-        "url": "actionfps://califa.actionfps.com:30000",
-        "name": "califa.actionfps.com 30000"
     }
 ]
